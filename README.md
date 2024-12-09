@@ -4,6 +4,8 @@ This Python script provides a speech recognition interface using the `speech_rec
 
 ---
 
+![image](https://github.com/user-attachments/assets/b29e4572-0efb-418c-9d60-a6d496e0d169)
+
 ### Features
 - **Dynamic Energy Threshold**: Enables better adaptation to quieter or noisier environments.
 - **Adjustable Settings**: Configurable parameters for energy threshold, pause duration, and more.
